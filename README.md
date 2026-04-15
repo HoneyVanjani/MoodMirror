@@ -53,7 +53,7 @@ MoodMirror isn't just a journal; it's a **Neural Terminal**. We've replaced gene
 
 ### 1. Repository Alignment
 ```bash
-git clone https://github.com/your-username/MoodMirror.git
+git clone https://github.com/HoneyVanjani/MoodMirror.git
 cd MoodMirror
 
 ### 2. Neural Frontend Configuration
