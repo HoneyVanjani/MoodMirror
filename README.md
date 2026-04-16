@@ -57,16 +57,14 @@ git clone https://github.com/HoneyVanjani/MoodMirror.git
 cd MoodMirror
 
 ### 2. Neural Frontend Configuration
-```bash
 cd moodmirror_frontend
 npm install
 npm run dev
 
 ### 3. Core Backend Activation
-```bash
 cd moodmirror_backend
 composer install
 cp .env.example .env
 php artisan key:generate
 php artisan serve
->>>>>>> 24fe856a012371f10012c0252e9b3123c69fbb68
+
